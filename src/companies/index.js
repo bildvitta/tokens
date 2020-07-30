@@ -1,6 +1,6 @@
 const companies = {
   bild: {
-    brand: require('../assets/brands/bild'),
+    brand: require('../assets/brands/bild.svg'),
     color: '#ed7203',
     name: 'Bild',
     domains: [
@@ -9,7 +9,7 @@ const companies = {
   },
 
   exklusiv: {
-    brand: require('../assets/brands/exklusiv'),
+    brand: require('../assets/brands/exklusiv.svg'),
     color: '#3e3a35',
     name: 'Bild Exklusiv',
     domains: [
@@ -18,7 +18,7 @@ const companies = {
   },
 
   vitta: {
-    brand: require('../assets/brands/vitta'),
+    brand: require('../assets/brands/vitta.svg'),
     color: '#006cbb',
     name: 'Vitta Residencial',
     domains: [
@@ -30,7 +30,7 @@ const companies = {
   },
 
   fegik: {
-    brand: require('../assets/brands/fegik'),
+    brand: require('../assets/brands/fegik.svg'),
     color: '#132f4d',
     name: 'Fegik',
     domains: [
@@ -39,7 +39,7 @@ const companies = {
   },
 
   veraz: {
-    brand: require('../assets/brands/veraz'),
+    brand: require('../assets/brands/veraz.svg'),
     color: '#e66d2d',
     name: 'Veraz',
     domains: [
