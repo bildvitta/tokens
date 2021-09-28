@@ -52,7 +52,7 @@ const companies = {
     color: '#0d2440',
     name: 'Trisul',
     domains: [
-      'trisul-sa.com.br'
+      'portal-trisul.nave.dev'
     ]
   }
 }
