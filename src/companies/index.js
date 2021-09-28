@@ -45,6 +45,15 @@ const companies = {
     domains: [
       'verazseguros.com.br'
     ]
+  },
+
+  trisul: {
+    brand: require('../assets/brands/trisul.svg'),
+    color: '#0d2440',
+    name: 'Trisul',
+    domains: [
+      'trisul.com.br'
+    ]
   }
 }
 
