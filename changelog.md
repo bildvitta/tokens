@@ -5,6 +5,10 @@ The format is based on Keep a Changelog, and this project adheres to Semantic Ve
 ## 0.1.1 - 2021-10-07
 ### Changed
 - Changed trisul's domain and brand path.
+- Changed npm registry
+
+### Removed
+- Removed .npmrc
 
 ## 0.1.0 - 2021-09-29
 ### Added
