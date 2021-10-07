@@ -7,8 +7,8 @@ The format is based on Keep a Changelog, and this project adheres to Semantic Ve
   - Insertion of trisul in the list of companies.
 
 ### Changed
-  - Change the pointing from o main to dist/index.js.
+  - Changed package.json main path to dist/index.js`.
 
 ## 0.1.1 - 2021-10-07
 ### Changed
-  - Change in trisul's domain.
+  - Changed trisul's domain and brand path.
