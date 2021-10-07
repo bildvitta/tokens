@@ -8,3 +8,7 @@ The format is based on Keep a Changelog, and this project adheres to Semantic Ve
 
 ### Changed
   - Change the pointing from o main to dist/index.js.
+
+## 0.1.1 - 2021-10-07
+### Changed
+  - Change in trisul's domain.
