@@ -39,7 +39,7 @@
       brand: require('../src/assets/brands/trisul.svg'),
       color: '#0d2440',
       name: 'Trisul',
-      domains: ['nave.dev']
+      domains: ['nave.dev', 'trisul-sa.com.br']
     }
   };
 
