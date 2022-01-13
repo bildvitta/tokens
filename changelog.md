@@ -2,6 +2,10 @@
 All notable changes in this project will be documented in this file.
 The format is based on Keep a Changelog, and this project adheres to Semantic Version Control.
 
+## Unreleased
+### Added
+- Insertion of the trisul domain in the list of companies.
+
 ## 0.1.1 - 2021-10-07
 ### Changed
 - Changed trisul's domain and brand path.
