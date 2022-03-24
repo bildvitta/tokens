@@ -4,6 +4,10 @@ The format is based on Keep a Changelog, and this project adheres to Semantic Ve
 
 ## 0.2.0
 ### Added
+- Insertion other trisul domain in the list of companies.
+
+## 0.2.0 - 2022-01-13
+### Added
 - Insertion of the trisul domain in the list of companies.
 
 ## 0.1.1 - 2021-10-07

@@ -53,7 +53,8 @@ const companies = {
     name: 'Trisul',
     domains: [
       'nave.dev',
-      'trisul-sa.com.br'
+      'trisul-sa.com.br',
+      'trisul.com.br',
     ]
   }
 }
