@@ -56,6 +56,15 @@ const companies = {
       'trisul-sa.com.br',
       'trisul.com.br',
     ]
+  },
+
+  enkel: {
+    brand: require('../src/assets/brands/enkel.svg'),
+    color: '#ed7203',
+    name: 'Enkel',
+    domains: [
+      'enkelbpo.com.br'
+    ]
   }
 }
 
