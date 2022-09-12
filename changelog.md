@@ -5,6 +5,10 @@ The format is based on Keep a Changelog, and this project adheres to Semantic Ve
 ## 0.4.0 - 2022-09-12
 ### Added
 - Insertion of the ADN domain in the list of companies.
+- Inserting the ADN svg into assets.
+
+### Changed
+- Assets svg color change.
 
 ## 0.3.1 - 2022-06-29
 ### Changed
