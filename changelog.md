@@ -2,6 +2,10 @@
 All notable changes in this project will be documented in this file.
 The format is based on Keep a Changelog, and this project adheres to Semantic Version Control.
 
+## 0.4.0 - 2022-09-12
+### Added
+- Insertion of the ADN domain in the list of companies.
+
 ## 0.3.1 - 2022-06-29
 ### Changed
 - Enkel svg color change.

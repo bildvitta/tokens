@@ -46,6 +46,12 @@
       color: '#ed7203',
       name: 'Enkel',
       domains: ['enkelbpo.com.br']
+    },
+    adn: {
+      brand: require('../src/assets/brands/adn.svg'),
+      color: '#e66d2d',
+      name: 'ADN',
+      domains: ['adnconstrutora.com.br']
     }
   };
 
