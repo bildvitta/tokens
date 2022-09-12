@@ -65,6 +65,15 @@ const companies = {
     domains: [
       'enkelbpo.com.br'
     ]
+  },
+
+  adn: {
+    brand: require('../src/assets/brands/adn.svg'),
+    color: '#006cbb',
+    name: 'ADN',
+    domains: [
+      'adnconstrutora.com.br'
+    ]
   }
 }
 
